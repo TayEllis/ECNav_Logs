@@ -1,0 +1,10 @@
+Meeting Logs 2-19-2019:
+
+Attendees: Steven McDonald, Sam Fitz, Taylor Ellis, Robbie Tennant, Jason Hong, Alyvia Hildebrand
+
+Minutes:
+
+- Settled on project: Navigator/Interactive Room Finder for Engineering Center
+- Setup git repos
+- Settled on development process: Agile, weekly scrums
+- 
