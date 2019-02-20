@@ -7,4 +7,5 @@ Minutes:
 - Settled on project: Navigator/Interactive Room Finder for Engineering Center
 - Setup git repos
 - Settled on development process: Agile, weekly scrums
-- 
+- All non-code filesharing will be done via Slack
+- Constructed vision/mission statement
