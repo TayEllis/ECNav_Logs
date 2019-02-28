@@ -1,0 +1,15 @@
+Meeting Minutes, 02/27/2019
+---------------------------
+Attendees: Steven James McDonald, Sam Fitz, Taylor Ellis, Robbie Tennant, Jason Hong, Alyvia Hildebrand
+---------------------------
+
+- Discussed getting floorplan data from OIT
+- May be in CAD files which will require conversion to images
+- Discussed ability for users to create accounts and store classroom locations for quick access
+- Ability to add/remove class
+- Creating pathing as a stretch goal
+- Using javascript/postgresql for backend and bootstrap/html for frontend
+- discussed meta labels (departments, wings, labs, coffee shops, lobbies)
+- discussed fucntional requirements
+- Using Trello chart for project tracking (like a kanban board)
+- Added to Milestone 2
